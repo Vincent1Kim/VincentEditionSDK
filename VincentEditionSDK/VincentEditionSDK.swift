@@ -8,5 +8,5 @@
 import Foundation
 
 final public class VincentEditionSDK {
-    public static var sdkVersion = "1.0.1"
+    public static var sdkVersion = "1.0.1.Other"
 }
