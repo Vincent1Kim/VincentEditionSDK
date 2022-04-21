@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "VincentEditionSDK"
-  spec.version      = "1.0.1.Other"
+  spec.version      = "1.0.2"
   spec.summary      = "VincentEditionSDK"
 
   spec.homepage     = "https://github.com/Vincent1Kim/VincentEditionSDK"
