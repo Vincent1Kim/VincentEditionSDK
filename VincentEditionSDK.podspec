@@ -15,6 +15,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios
   spec.ios.deployment_target = '11.0'
   spec.swift_version = "5"
+  spec.ios.frameworks = 'Foundation'
   spec.vendored_frameworks = 'Frameworks/VincentEditionSDK.xcframework'
 
 end
