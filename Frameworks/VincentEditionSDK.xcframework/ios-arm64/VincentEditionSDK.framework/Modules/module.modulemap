@@ -1,0 +1,11 @@
+framework module VincentEditionSDK {
+  umbrella header "VincentEditionSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module VincentEditionSDK.Swift {
+    header "VincentEditionSDK-Swift.h"
+    requires objc
+}
