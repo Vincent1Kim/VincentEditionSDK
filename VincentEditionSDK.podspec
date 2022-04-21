@@ -3,6 +3,7 @@ Pod::Spec.new do |spec|
   spec.version      = "1.0.0"
   spec.summary      = "VincentEditionSDK"
 
+  spec.homepage     = "https://github.com/Vincent1Kim/VincentEditionSDK"
   spec.source   = { :git => 'https://github.com/Vincent1Kim/VincentEditionSDK.git', :tag => spec.version }
   spec.license = { :type => 'Copyright', :text => <<-LICENSE
                  Copyright 2021
