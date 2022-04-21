@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BF7335CA28111F23008AC251 /* VincentEditionSDK.docc in Sources */ = {isa = PBXBuildFile; fileRef = BF7335C928111F23008AC251 /* VincentEditionSDK.docc */; };
+		BF7335CA28111F23008AC251 /* VincentEditionSDK in Sources */ = {isa = PBXBuildFile; fileRef = BF7335C928111F23008AC251 /* VincentEditionSDK */; };
 		BF7335D028111F23008AC251 /* VincentEditionSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF7335C528111F23008AC251 /* VincentEditionSDK.framework */; };
 		BF7335D528111F23008AC251 /* VincentEditionSDKTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF7335D428111F23008AC251 /* VincentEditionSDKTests.swift */; };
 		BF7335D628111F23008AC251 /* VincentEditionSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = BF7335C828111F23008AC251 /* VincentEditionSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -27,7 +27,7 @@
 /* Begin PBXFileReference section */
 		BF7335C528111F23008AC251 /* VincentEditionSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VincentEditionSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF7335C828111F23008AC251 /* VincentEditionSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VincentEditionSDK.h; sourceTree = "<group>"; };
-		BF7335C928111F23008AC251 /* VincentEditionSDK.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = VincentEditionSDK.docc; sourceTree = "<group>"; };
+		BF7335C928111F23008AC251 /* VincentEditionSDK */ = {isa = PBXFileReference; lastKnownFileType = folder; path = VincentEditionSDK; sourceTree = "<group>"; };
 		BF7335CF28111F23008AC251 /* VincentEditionSDKTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VincentEditionSDKTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF7335D428111F23008AC251 /* VincentEditionSDKTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VincentEditionSDKTests.swift; sourceTree = "<group>"; };
 		BF7335DF28113060008AC251 /* VincentEditionSDK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VincentEditionSDK.swift; sourceTree = "<group>"; };
@@ -74,7 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				BF7335C828111F23008AC251 /* VincentEditionSDK.h */,
-				BF7335C928111F23008AC251 /* VincentEditionSDK.docc */,
+				BF7335C928111F23008AC251 /* VincentEditionSDK */,
 				BF7335DF28113060008AC251 /* VincentEditionSDK.swift */,
 			);
 			path = VincentEditionSDK;
@@ -198,7 +198,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF7335E028113060008AC251 /* VincentEditionSDK.swift in Sources */,
-				BF7335CA28111F23008AC251 /* VincentEditionSDK.docc in Sources */,
+				BF7335CA28111F23008AC251 /* VincentEditionSDK in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
